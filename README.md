@@ -1,11 +1,11 @@
-<h1 align="center">Hi there, I'm Amodini 👋</h1>
-<h2>👨‍💻 Web Developer</h2>
+<h1 align="center">Hello there, I'm Amodini 👋</h1>
+<h2>👨‍💻 About Me:</h2>
 <ul type="circle">
   <li>I love creating new and unique webapps</li>
-  <li>luv ❤️ working with HTML,CSS and JavaScript </li>
-  <li>currently exploring AI/ML </li>
+  <li>Love❤️ working with HTML,CSS and JavaScript </li>
+  <li>I'm currently exploring AI/ML ! </li>
  </ul>
-<h2>Languages & Tools I Use:</h2>
+<h2>My Tech Stack:</h2>
 <img align="left" height=50px width=50px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
 <img align="left" height=50px width=50px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" />
 <img align="left" height=50px width=50px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
