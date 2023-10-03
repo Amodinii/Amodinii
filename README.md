@@ -1,10 +1,10 @@
-<h1 align="center">Hello there, I'm Amodini 👋</h1>
+<h1 align="center">Hellooo there, I'm Amodini 👋</h1>
 <h2>👨‍💻 About Me:</h2>
 <ul type="circle">
   <li>I love creating new and unique webapps</li>
   <li>Love❤️ working with HTML,CSS and JavaScript </li>
-  <li>I'm currently exploring AI/ML ! </li>
- </ul>
+  <li>Currently exploring AI/ML! </li>
+</ul>
 <h2>My Tech Stack:</h2>
 <img align="left" height=50px width=50px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
 <img align="left" height=50px width=50px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" />
@@ -14,6 +14,9 @@
 <img align="left" height=50px width=50px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"/>
 <img align="left" height=50px width=50px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/>
 <img height=50px width=50px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
+<img height=50px width=50px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg"/>
+<img height=50px width=50px src="https://camo.githubusercontent.com/0f6325940d36137c3e77d69b0dfe0ffb33e9a1084faf9cc843a9c929a874c709/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e6f74696f6e2d2532333030303030302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6e6f74696f6e266c6f676f436f6c6f723d7768697465"/>
+
 <h2> GitHub Stats: </h2>
 <img src="https://github-readme-stats.vercel.app/api?username=amodinii&theme=dark&show_icons=true&count_private=true" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amodinii&theme=dark&layout=compact">
