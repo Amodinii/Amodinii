@@ -1,9 +1,9 @@
 <h1 align="center">Hellooo! I'm Amodini 👋</h1>
 <h2>👨‍💻 About Me:</h2>
 <ul type="circle">
-  <li>I love creating new and unique webapps</li>
+  <li>I'm passionate about crafting one-of-a-kind web apps that leave a lasting impression.</li>
   <li>Love❤️ working with HTML,CSS and JavaScript </li>
-  <li>Currently exploring AI/ML! </li>
+  <li>Diving deep into the world of AI/ML, exploring its endless possibilities!!🚀</li>
 </ul>
 <h2>My Tech Stack:</h2>
 <img align="left" height=50px width=50px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
