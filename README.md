@@ -2,7 +2,6 @@
 <h2>👨‍💻 About Me:</h2>
 <ul type="circle">
   <li>I'm passionate about crafting one-of-a-kind web apps that leave a lasting impression.</li>
-  <li>Love❤️ working with HTML,CSS and JavaScript </li>
   <li>Diving deep into the world of AI/ML, exploring its endless possibilities!!🚀</li>
 </ul>
 <h2>My Tech Stack:</h2>
