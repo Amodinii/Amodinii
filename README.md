@@ -23,7 +23,7 @@
   <!-- Databases & Tools -->
   <img height="50px" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"/>
   <img height="50px" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg"/>
-</div>
+
 
 
   <!-- AI/ML & Data Science -->
@@ -34,7 +34,7 @@
   <img height="50px" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original-wordmark.svg"/>
   <img height="50px" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg" />
   <img height="50px" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" />
-</div>
+
 
 
   <!-- MLOps Tools -->
