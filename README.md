@@ -8,30 +8,30 @@
 </ul>
 
 <h2> My Tech Stack:</h2>
-<img height="50px" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-line.svg" style="margin-right: 30px;" />
-<img height="50px" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="margin-right: 30px;"/>
-<img height="50px" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="margin-right: 30px;"/>
-<img height="50px" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="margin-right: 30px;"/>
-<img height="50px" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" style="margin-right: 30px;" />
-<img height="50px" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" style="margin-right: 30px;" />
-<img height="50px" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" style="margin-right: 30px;" />
-<img height="50px" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" style="margin-right: 30px;" />
+<img height="50px" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-line.svg" style="margin-right: 30px; display: inline-block;" />
+<img height="50px" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="margin-right: 30px; display: inline-block;"/>
+<img height="50px" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="margin-right: 30px; display: inline-block;"/>
+<img height="50px" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="margin-right: 30px; display: inline-block;"/>
+<img height="50px" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" style="margin-right: 30px; display: inline-block;" />
+<img height="50px" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" style="margin-right: 30px; display: inline-block;" />
+<img height="50px" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" style="margin-right: 30px; display: inline-block;" />
+<img height="50px" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" style="margin-right: 30px; display: inline-block;" />
 
 <!-- Databases & Tools -->
-<img height="50px" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" style="margin-right: 30px;"/>
-<img height="50px" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" style="margin-right: 30px;"/>
+<img height="50px" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" style="margin-right: 30px; display: inline-block;"/>
+<img height="50px" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" style="margin-right: 30px; display: inline-block;"/>
 
 <!-- AI/ML & Data Science -->
-<img height="50px" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" style="margin-right: 30px;" />
-<img height="50px" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" style="margin-right: 30px;" />
-<img height="50px" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" style="margin-right: 30px;" />
-<img height="50px" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original-wordmark.svg" style="margin-right: 30px;" />
-<img height="50px" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original-wordmark.svg" style="margin-right: 30px;"/>
-<img height="50px" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg" style="margin-right: 30px;" />
-<img height="50px" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" style="margin-right: 30px;" />
+<img height="50px" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" style="margin-right: 30px; display: inline-block;" />
+<img height="50px" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" style="margin-right: 30px; display: inline-block;" />
+<img height="50px" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" style="margin-right: 30px; display: inline-block;" />
+<img height="50px" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original-wordmark.svg" style="margin-right: 30px; display: inline-block;" />
+<img height="50px" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original-wordmark.svg" style="margin-right: 30px; display: inline-block;"/>
+<img height="50px" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg" style="margin-right: 30px; display: inline-block;" />
+<img height="50px" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" style="margin-right: 30px; display: inline-block;" />
 
 <!-- MLOps Tools -->
-<img height="50px" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" style="margin-right: 30px;" />
+<img height="50px" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" style="margin-right: 30px; display: inline-block;" />
 
 <br><br>
 
