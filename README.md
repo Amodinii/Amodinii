@@ -8,37 +8,44 @@
 </ul>
 
 <h2> My Tech Stack:</h2>
-<img align="left" height=50px width=50px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-line.svg" />
-<img align="left" height=50px width=50px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"/>
-<img align="left" height=50px width=50px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/>
-<img align="left" height=50px width=50px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
-<img align="left" height=50px width=50px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
-<img align="left" height=50px width=50px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" />
-<img align="left" height=50px width=50px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" />
-<img align="left" height=50px width=50px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" />
+<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+  <!-- Programming Languages -->
+  <img height="50px" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-line.svg" />
+  <img height="50px" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"/>
+  <img height="50px" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/>
+  <img height="50px" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
+  <img height="50px" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
+  <img height="50px" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" />
+  <img height="50px" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" />
+  <img height="50px" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" />
+</div>
 
-<!-- Databases & Tools -->
-<img align="left" height=50px width=50px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"/>
-<img align="left" height=50px width=50px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg"/>
+<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+  <!-- Databases & Tools -->
+  <img height="50px" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"/>
+  <img height="50px" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg"/>
+</div>
 
-<!-- AI/ML & Data Science -->
-<img align="left" height=50px width=50px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" />
-<img align="left" height=50px width=50px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" />
-<img align="left" height=50px width=50px src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" />
-<img align="left" height=50px width=50px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original-wordmark.svg" />
-<img align="left" height=50px width=50px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original-wordmark.svg"/>
-<img align="left" height=50px width=50px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg" />
-<img align="left" height=50px width=50px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" />
+<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+  <!-- AI/ML & Data Science -->
+  <img height="50px" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" />
+  <img height="50px" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" />
+  <img height="50px" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" />
+  <img height="50px" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original-wordmark.svg" />
+  <img height="50px" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original-wordmark.svg"/>
+  <img height="50px" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg" />
+  <img height="50px" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" />
+</div>
 
-<!-- MLOps Tools -->
-<img align="left" height=50px width=50px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" />
-
+<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+  <!-- MLOps Tools -->
+  <img height="50px" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" />
+</div>
 
 <br><br>
 
-<!-- Spacing for GitHub Stats -->
+<h2>📊 GitHub Stats:</h2>
 <div style="display: flex; justify-content: center; gap: 2rem;">
-  <h2>📊 GitHub Stats:</h2>
   <img src="https://github-readme-stats.vercel.app/api?username=amodinii&theme=dark&show_icons=true&count_private=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amodinii&theme=dark&layout=compact">
 </div>
