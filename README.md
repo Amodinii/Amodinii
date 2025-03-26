@@ -37,8 +37,8 @@
 <br><br>
 
 <!-- Spacing for GitHub Stats -->
-<h2>📊 GitHub Stats:</h2>
 <div style="display: flex; justify-content: center; gap: 2rem;">
+  <h2>📊 GitHub Stats:</h2>
   <img src="https://github-readme-stats.vercel.app/api?username=amodinii&theme=dark&show_icons=true&count_private=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amodinii&theme=dark&layout=compact">
 </div>
