@@ -21,19 +21,20 @@
 <!-- AI/ML & Data Science -->
 <img align="left" height=50px width=50px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" />
 <img align="left" height=50px width=50px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" />
-<img align="left" height=50px width=50px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikit-learn/scikit-learn-original.svg" />
+<img align="left" height=50px width=50px src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" />
 <img align="left" height=50px width=50px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original-wordmark.svg" />
 <img align="left" height=50px width=50px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original-wordmark.svg"/>
 <img align="left" height=50px width=50px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg" />
 <img align="left" height=50px width=50px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" />
-<img align="left" height=50px width=50px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nltk/nltk-original.svg" />
-<img align="left" height=50px width=50px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spacy/spacy-original.svg" />
+<img align="left" height=50px width=50px src="https://upload.wikimedia.org/wikipedia/commons/1/19/NLTK_logo.svg" />
+<img align="left" height=50px width=50px src="https://upload.wikimedia.org/wikipedia/commons/0/05/Spacy_logo.svg" />
 
 <!-- MLOps Tools -->
 <img align="left" height=50px width=50px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" />
-<img align="left" height=50px width=50px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" />
-<img align="left" height=50px width=50px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mlflow/mlflow-original.svg" />
-<br></br>
+<img align="left" height=50px width=50px src="https://upload.wikimedia.org/wikipedia/commons/2/29/Amazon_Web_Services_Logo.svg" />
+<img align="left" height=50px width=50px src="https://raw.githubusercontent.com/mlflow/mlflow/master/docs/_static/mlflow_logo.png" />
+<br>
+<br>
 
 <h2> GitHub Stats:</h2>
 <img src="https://github-readme-stats.vercel.app/api?username=amodinii&theme=dark&show_icons=true&count_private=true" />
