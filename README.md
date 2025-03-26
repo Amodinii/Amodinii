@@ -13,6 +13,10 @@
 <img align="left" height=50px width=50px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"/>
 <img align="left" height=50px width=50px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/>
 <img align="left" height=50px width=50px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
+<img align="left" height=50px width=50px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
+<img align="left" height=50px width=50px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" />
+<img align="left" height=50px width=50px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" />
+<img align="left" height=50px width=50px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" />
 
 <!-- Databases & Tools -->
 <img align="left" height=50px width=50px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"/>
@@ -33,13 +37,17 @@
 <img align="left" height=50px width=50px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" />
 <img align="left" height=50px width=50px src="https://upload.wikimedia.org/wikipedia/commons/2/29/Amazon_Web_Services_Logo.svg" />
 <img align="left" height=50px width=50px src="https://raw.githubusercontent.com/mlflow/mlflow/master/docs/_static/mlflow_logo.png" />
+
 <br>
 <br>
 
+<!-- Spacing for GitHub Stats -->
+
 <h2> GitHub Stats:</h2>
-<img src="https://github-readme-stats.vercel.app/api?username=amodinii&theme=dark&show_icons=true&count_private=true" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amodinii&theme=dark&layout=compact">
-<p><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=amodinii&amp;theme=dark" ></a></p>
+<div style="display: flex; justify-content: center; gap: 2rem;">
+  <img src="https://github-readme-stats.vercel.app/api?username=amodinii&theme=dark&show_icons=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amodinii&theme=dark&layout=compact">
+</div>
 
 <h2>🔗 Let's Connect!</h2>
 <p>Feel free to explore my repositories to see my AI/ML projects, web apps, and experiments. I’m passionate about building AI-driven solutions to real-world challenges and always open to collaborating on exciting projects! Let’s innovate together. </p>
