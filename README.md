@@ -8,7 +8,7 @@
 </ul>
 
 <h2> My Tech Stack:</h2>
-<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+<div style="display: flex; flex-wrap: wrap; gap: 50px;">
   <!-- Programming Languages -->
   <img height="50px" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-line.svg" />
   <img height="50px" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"/>
