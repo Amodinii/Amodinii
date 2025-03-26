@@ -8,7 +8,6 @@
 </ul>
 
 <h2> My Tech Stack:</h2>
-<div style="display: flex; flex-wrap: wrap; gap: 30px;"> <!-- Flexbox for horizontal layout with gap -->
   <!-- Programming Languages -->
   <img height="50px" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-line.svg" style="margin-right: 30px;" />
   <img height="50px" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="margin-right: 30px;"/>
@@ -34,7 +33,7 @@
 
   <!-- MLOps Tools -->
   <img height="50px" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" style="margin-right: 30px;" />
-</div>
+
 
 <br><br>
 
