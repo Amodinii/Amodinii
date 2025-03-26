@@ -18,15 +18,14 @@
   <img height="50px" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" />
   <img height="50px" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" />
   <img height="50px" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" />
-</div>
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+
   <!-- Databases & Tools -->
   <img height="50px" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"/>
   <img height="50px" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg"/>
 </div>
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+
   <!-- AI/ML & Data Science -->
   <img height="50px" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" />
   <img height="50px" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" />
@@ -37,7 +36,7 @@
   <img height="50px" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" />
 </div>
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+
   <!-- MLOps Tools -->
   <img height="50px" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" />
 </div>
