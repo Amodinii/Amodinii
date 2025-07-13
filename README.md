@@ -44,7 +44,7 @@
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amodinii&theme=dark&layout=compact">
   <br>
-  <p><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=nottpande&amp;theme=dark" ></a></p>
+  <p><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=amodinii&amp;theme=dark" ></a></p>
 </div>
 
 <h2>🔗 Let's Connect!</h2>
