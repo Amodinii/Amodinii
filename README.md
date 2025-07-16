@@ -40,14 +40,11 @@ When not training models, I’m probably dissecting them — to understand *why*
 
 <br><br>
 
-<h2>📊 GitHub Stats:</h2>
-<div style="display: flex; justify-content: center; gap: 2rem;">
-  <img src="https://github-readme-stats.vercel.app/api?username=amodinii&theme=dark&show_icons=true&count_private=true" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amodinii&theme=dark&layout=compact">
-  <br>
-  <p><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=amodinii&amp;theme=dark" ></a></p>
-</div>
+<h2>GitHub Stats:</h2>
+![](https://github-readme-stats.vercel.app/api?username=amodinii&theme=dracula&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=amodinii&theme=dracula&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=amodinii&theme=dracula&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+  
 
 <h2>🔗 Let's Connect!</h2>
 <p>Feel free to explore my repositories to see my AI/ML projects, web apps, and experiments. I’m passionate about building AI-driven solutions to real-world challenges and always open to collaborating on exciting projects! Let’s innovate together. </p>
