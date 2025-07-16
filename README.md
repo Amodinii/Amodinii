@@ -41,9 +41,9 @@ When not training models, I’m probably dissecting them — to understand *why*
 <br><br>
 
 <h2>GitHub Stats:</h2>
-![](https://github-readme-stats.vercel.app/api?username=amodinii&theme=dracula&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=amodinii&theme=dracula&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=amodinii&theme=dracula&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Amodinii&theme=dracula&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Amodinii&theme=dracula&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Amodinii&theme=dracula&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
   
 
 <h2>🔗 Let's Connect!</h2>
