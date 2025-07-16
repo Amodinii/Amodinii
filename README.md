@@ -2,8 +2,8 @@
 
 <h2> About Me:</h2>
 <ul type="circle">
-  <li>I'm a researcher and builder working at the edge of machine learning and artificial intelligence. My focus is on making machines not just learn — but reason, create, and surprise us a little.
-I enjoy asking weird questions and prototyping stranger answers — especially where algorithms meet ambiguity. If it's a problem that doesn't have a clean label or an obvious loss function, chances are I'm interested.
+  <li>I'm AI researcher and builder working at the edge of machine learning and artificial intelligence. My focus is on making machines not just learn, but reason, create, and surprise us a little.
+I enjoy asking weird questions and prototyping stranger answers, especially where algorithms meet ambiguity. If it's a problem that doesn't have a clean label or an obvious loss function, chances are I'm interested.
 
 When not training models, I’m probably dissecting them — to understand *why* they do what they do, and *how* we can make them better.
 </li>
