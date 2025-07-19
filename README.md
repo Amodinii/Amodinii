@@ -1,4 +1,4 @@
-<h1 align="center">Hellooo! I'm Amodini</h1>
+<h1 align="center">Hellooo!! I'm Amodini</h1>
 
 <h2> About Me:</h2>
 <ul type="circle">
@@ -7,7 +7,7 @@ What started as curiosity turned into an obsession with making machines think, g
   <li>I'm an AI researcher and builder working at the edge of machine learning and artificial intelligence. My focus is on making machines not just learn, but reason, create, and surprise us a little.
 I enjoy asking weird questions and prototyping stranger answers, especially where algorithms meet ambiguity. If it's a problem that doesn't have a clean label or an obvious loss function, chances are I'm interested.
 
-When not training models, I’m probably dissecting them, to understand *why* they do what they do, and *how* we can make them better.
+When not training models, I’m probably dissecting them, to understand*why* they do what they do, and *how* we can make them better.
 </li>
 </ul>
 
@@ -49,5 +49,5 @@ When not training models, I’m probably dissecting them, to understand *why* th
 
   
 
-<h2>🔗 Let's Connect!</h2>
-<p>Feel free to explore my repositories to see my AI/ML projects, web apps, and experiments. I’m passionate about building AI-driven solutions to real-world challenges and always open to collaborating on exciting projects! Let’s innovate together. </p>
+<h2>Let's Connect!</h2>
+<p>Feel free to explore my repositories to see my AI/ML projects, and experiments. I’m passionate about building AI-driven solutions to real-world challenges and always open to collaborating on exciting projects! Let’s innovate together. </p>
