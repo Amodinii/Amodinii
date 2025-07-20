@@ -1,6 +1,6 @@
-<h1 align="center">Hellooo!! I'm Amodini</h1>
+<h1 align="center">Hellooo! I'm Amodini</h1>
 
-<h2> About Me:</h2>
+<h2> About Me</h2>
 <ul type="circle">
   <li>I'm someone who fell down the AI rabbit hole, and never really came back.  
 What started as curiosity turned into an obsession with making machines think, generate, and sometimes, hallucinate in useful ways.</li>
