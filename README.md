@@ -1,4 +1,4 @@
-<h1 align="center">Hellooo! I'm Amodini</h1>
+<h1 align="center">Hellooo!! I'm Amodini</h1>
 
 <h2> About Me</h2>
 <ul type="circle">
