@@ -42,10 +42,7 @@ When not training models, I’m probably dissecting them, to understand*why* the
 
 <br><br>
 
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Amodinii&theme=dracula&hide_border=false&include_all_commits=false&count_private=true)
 ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Amodinii&theme=dracula&hide_border=false)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Amodinii&theme=dracula&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
   
 
